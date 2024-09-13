@@ -1,8 +1,7 @@
-## Hi there, I'm Enzo!
+# Enzo Zanetti Celentano
 
-🎓 **Bachelor's in Computer Engineering @UnB**
-💼 **DevOps Intern @SenadoFederal** - Application Infrastructure Support Service  
-🔬 **@CNPq Scholar** - Research in Identification of Cerrado Tree Species via Multispectral Images  
+🎓 **Bachelor's in Computer Engineering (7th semester)** - @UnB  
+💼 **DevOps Intern** - @SenadoFederal  
 📍 Brasília, Brazil
 
 ## 🌱 About Me
@@ -12,5 +11,11 @@ I'm passionate about technology and research. Currently, I'm working on a scient
 - **Languages**: Python, C++, R, C, Haskell
 - **Machine Learning**: Torch, Lightning AI, OpenCV, SciPy, Numpy
 - **DevOps**: Kubernetes, Docker, Bash, Zabbix, Rancher
+- **Languages**: Fluent in English 🇬🇧 and Spanish 🇪🇸, basic Japanese 🇯🇵
+
+## 🔬 Research & Projects
+- ** Identification of Cerrado Tree Species via Multispectral Images ** @CNPq
+- **Monet Style Paintings** via GANs (2024)
+- **Identification of SH-SY5Y Lineage Neuroblastomas** in Microscopic Images
 
 
