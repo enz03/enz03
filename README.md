@@ -11,7 +11,7 @@ I'm passionate about technology and research. Currently, I'm working on a scient
 - **Languages**: Python, C++, R, C, Haskell
 - **Machine Learning**: Torch, Lightning AI, OpenCV, SciPy, Numpy
 - **DevOps**: Kubernetes, Docker, Bash, Zabbix, Rancher
-- **Languages**: Fluent in English 🇬🇧 and Spanish 🇪🇸, basic Japanese 🇯🇵
+- **Languages**: Fluent in English 🇬🇧 and Spanish 🇪🇸.
 
 ## 🔬 Research & Projects
 - [**Identification of Cerrado Tree Species via Multispectral Images** (2023-2025)](https://github.com/enz03/enz03/blob/main/Tree_especiesarticle.pdf)
