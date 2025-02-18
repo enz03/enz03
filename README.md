@@ -1,7 +1,8 @@
  # `Hello world`, I'm Enzo!
 
 🎓 **Bachelor's in Computer Engineering (9th semester)** @UnB  
-💼 **DevOps Intern** @SenadoFederal  
+💼 **DevOps Intern** @SenadoFederal
+🔍 **Researcher** @cnpq
 📍 Brasília, Brazil
 
 ## 🌱 About Me
