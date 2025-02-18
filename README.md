@@ -15,7 +15,7 @@ I'm passionate about technology and research. Currently, I'm working on a scient
 - **Languages**: Fluent in English 🇬🇧 and Spanish 🇪🇸.
 
 ## 🔬 Research & Projects
-- [**Identification of Cerrado Tree Species via Multispectral Images** (2023-2025)](https://github.com/enz03/enz03/blob/main/Tree_especiesarticle.pdf)
+- [**Identification of Cerrado Tree Species via Multispectral Images** (2023-current)](https://github.com/enz03/enz03/blob/main/Tree_especiesarticle.pdf)
 - [**Monet Style Paintings** via GANs (2024)](https://github.com/enz03/monet-paintings)
 - [**Identification of SH-SY5Y Lineage Neuroblastomas** in Microscopic Images](https://github.com/enz03/Sartorius-Mask-R-CNN)
 
